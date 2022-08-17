@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [@Geocom](https://www.geocom.cl/).
 
-- 🌱 I’m currently learning **Numpy, Pandas and SciKit Learn**
+- 🌱 I’m currently learning **Numpy, Pandas and SciKit-Learn**
 
 -  👀 I’m interested in become data science analytic.
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/obed-macallums/](https://www.linkedin.com/in/obed-macallums/) -->
 
-- 💬 Ask me about **Python, Django, Django rest Framework, react, SQL**
+- 💬 Ask me about **Python, Django, Django REST Framework, React, SQL**
 
 - 📫 How to reach me **obedmacallums@gmail.com**
 
@@ -19,8 +19,8 @@
 
 - ⚡ Skills:
   - Backend python developer using django and django Rest Framework for a long time.
-  - AWS, Docker, all the cloud stuff.
   - Javascript coding (Vue and react frameworks).
+  - AWS, Docker, Cloud Computing and CI/CD Services. 
   - Critical thinking, self taught quick learning, decision-making and problem solving skills.
 
 
