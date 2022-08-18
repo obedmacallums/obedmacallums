@@ -37,4 +37,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obedmacallums&show_icons=true&theme=dark&locale=en&layout=compact" alt="obedmacallums" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obedmacallums&show_icons=true&theme=dark&locale=en" alt="obedmacallums" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obedmacallums&show_icons=true&theme=dark&locale=en" alt="obedmacallums" /></p> -->
