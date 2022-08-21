@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **obedmacallums@gmail.com**
 
-- 📄 Know about my experiences on my [CV](https://drive.google.com/file/d/1rsKUijrFbZZALe3hFb32I29O2T-YETNo/view?usp=sharing)
+- 📄 Know about my experiences on my [CV](https://drive.google.com/file/d/1g07b3TwR2t5lMUc9D52rPbiPYaRL9N1Z/view?usp=sharing)
 
 - ⚡ Skills:
   - Backend python developer using django and django Rest Framework for a long time.
